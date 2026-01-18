@@ -21,6 +21,7 @@ def get_scm_fname(lang: str) -> Optional[str]:
         'elm': 'elm-tags.scm',
         'gleam': 'gleam-tags.scm',
         'go': 'go-tags.scm',
+        'haskell': 'haskell-tags.scm',
         'javascript': 'javascript-tags.scm',
         'java': 'java-tags.scm',
         'lua': 'lua-tags.scm',
